@@ -1,4 +1,4 @@
-package com.hdtapp;
+package com.paulcoghlan.hdtapp;
 
 import android.app.Application;
 import android.util.Log;

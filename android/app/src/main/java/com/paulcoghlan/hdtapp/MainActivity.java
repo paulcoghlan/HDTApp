@@ -1,4 +1,4 @@
-package com.hdtapp;
+package com.paulcoghlan.hdtapp;
 
 import com.facebook.react.ReactActivity;
 
